@@ -5,6 +5,8 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+// let arr = 30;
+const counting = [20,30,40,50];
 root.render(
   <React.StrictMode>
     <App />
